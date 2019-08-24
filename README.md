@@ -5,5 +5,7 @@ src/edge_detect_MC_JETCAS.py: This is the main file that searches for the crossb
 
 src/new_tt_fgt3_16.txt: Contains the truth table in the above mentionned format. All pixel pairs with an intensity difference of more than 16, which occur more than thrice on an average in each image in BSD500, are a part of this truth table.
 
-A .zip file (jetcas_all.zip) containing all other material used towards/for/in the JETCAS'19 paper is available at:
+A .zip file (jetcas_all.zip) containing all other material used towards/for/in the JETCAS'19 paper is available at: https://drive.google.com/file/d/1srCp8Io1WxTgGoOc44UroYysyi8CVSfq/view?usp=sharing
+
+
 Please note that a subset of the files in jetcas_all.zip has been used towards/for/in the JETCAS'19 paper.
